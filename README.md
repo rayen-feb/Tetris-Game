@@ -38,7 +38,7 @@ To play the game, simply run the compiled executable: `./tetris`
 - `Right Arrow`: Move block to the right
 - `Up Arrow`: Rotate block
 - `Down Arrow`: Drop block faster
-- ## 🎮 how to set
+## 🎮 how to set
    - sudo apt-get install libsfml-dev # install the SFML lib in your linux machine
    - git clone https://github.com/rayen-feb/Tetris-Game
    - cd Tetris-Game  #  to open the folder  
