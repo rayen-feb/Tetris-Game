@@ -35,7 +35,7 @@ int main()
 {
     srand(time(0));	 
 
-	RenderWindow window(VideoMode(320, 480), "The Game!");
+	RenderWindow window(VideoMode(320, 480), "The tetris  Game!");
 
     Texture t1,t2,t3;
 	t1.loadFromFile("images/tiles.png");
