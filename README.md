@@ -1,4 +1,3 @@
-![1677792-474870__tetris_tetris_ps3_screenshots 0](https://github.com/rayen-feb/Tetris-Game/assets/131598929/07b8a019-7dfc-48f8-a475-88aadb08c689)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F71E1E&background=9B460900&center=true&random=false&width=435&lines=Tetris+Game+;programed+in+C%2B%2B" alt="Typing SVG" /></a>
 
