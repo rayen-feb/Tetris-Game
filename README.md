@@ -40,12 +40,12 @@ To play the game, simply run the compiled executable: `./tetris`
 - `Up Arrow`: Rotate block
 - `Down Arrow`: Drop block faster
 - ## 🎮 how to set
-  **sudo apt-get install libsfml-dev # install the SFML lib in your linux machine
-  **git clone https://github.com/rayen-feb/Tetris-Game
-  **cd Tetris-Game  #  to open the folder  
-  **g++ -std=c++11 -c main.cpp # to compile.
-  **g++ main.o -o main.exe -lsfml-graphics -lsfml-window -lsfml-system # to link.
-  ** or you can  install just the  .exe file  and  run  ./main.exe
+   - sudo apt-get install libsfml-dev # install the SFML lib in your linux machine
+   - git clone https://github.com/rayen-feb/Tetris-Game
+   - cd Tetris-Game  #  to open the folder  
+   - g++ -std=c++11 -c main.cpp # to compile.
+   - g++ main.o -o main.exe -lsfml-graphics -lsfml-window -lsfml-system # to link.
+   - or you can  install just the  .exe file  and  run  ./main.exe
 
 ##  ⌨️ Contributing
 Contributions are welcome! Please read the contributing guidelines before making any changes.
