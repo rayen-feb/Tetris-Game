@@ -7,6 +7,10 @@
 This repository contains a simple yet fun implementation of the classic Tetris game, programmed in C++. The game is designed to be easy to play and provides a great way to pass time.
 #  🎲Tetris Game in C++
 
+
+https://github.com/rayen-feb/Tetris-Game/assets/131598929/130872e2-8a62-4790-9b8b-b913adedc88e
+
+
 ## 📜 Description
 This repository contains a simple yet fun implementation of the classic Tetris game, programmed in C++. The game is designed to be easy to play and provides a great way to pass time.
 
