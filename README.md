@@ -7,9 +7,12 @@ This repository contains a simple yet fun implementation of the classic Tetris g
 #  🎲Tetris Game in C++
 
 
+<div align="center">
+<a href="https://github.com/rayen-feb/Tetris-Game/assets/131598929/70780cae-338f-4715-b0f5-d913a8c78ac1">
+</a>
+</div>
 
 
-https://github.com/rayen-feb/Tetris-Game/assets/131598929/70780cae-338f-4715-b0f5-d913a8c78ac1
 
 
 
