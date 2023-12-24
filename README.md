@@ -2,7 +2,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F71E1E&background=9B460900&center=true&random=false&width=435&lines=Tetris+Game+;programed+in+C%2B%2B" alt="Typing SVG" /></a>
 
 
-# 🎮 Tetris-Game
+# 🎮 introduction
+
 This repository contains a simple yet fun implementation of the classic Tetris game, programmed in C++. The game is designed to be easy to play and provides a great way to pass time.
 #  🎲Tetris Game in C++
 
